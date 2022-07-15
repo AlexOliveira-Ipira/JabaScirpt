@@ -2,7 +2,7 @@
 ## Repo com comandos basicos de JS e exemplos praticos
 
 # Usado para estudo do JavaScript
-## Ajuda com dicas e sugestões é muito bem vindo.
+## Ajuda com dicas e sugestões são muito bem vindas.
 
 # Branch 1 - Aula
     1 - Tipagem
@@ -18,6 +18,7 @@
             Arquivo de exemplo
                 funcoes.js
     3 - Closure
+        OBS.: Função que retorna função. Na pratica é bom evitar essa opção.
         - Pasta closure  
             Arquivo de exmplo
                 closure.js
