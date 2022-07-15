@@ -18,6 +18,7 @@
             Arquivo de exemplo
                 funcoes.js
     3 - Closure
+        OBS.: Função que retorna função. Na pratica é bom evitar essa opção.
         - Pasta closure  
             Arquivo de exmplo
                 closure.js
